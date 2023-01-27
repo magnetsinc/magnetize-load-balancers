@@ -1,0 +1,11 @@
+name: magnetize-load-balancers
+id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0e18-40c8-8568-c31a5cefb046/e6c4d0a2-1327-4314-9192-1ba7acfcc9e8'
+description: Load balancers in front of API gateway
+ownerId: 'ari:cloud:teams::team/26861100-6053-4a00-8199-b29f24d7e5f4'
+fields:
+  tier: 4
+links: []
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
