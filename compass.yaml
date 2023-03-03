@@ -3,9 +3,6 @@ id: 'ari:cloud:compass:7d7a1354-b50b-4f1e-b409-1f3c509aea99:component/910c34fb-0
 description: Load balancers for magnetize
 ownerId: 'ari:cloud:teams::team/26861100-6053-4a00-8199-b29f24d7e5f4'
 links:
-  - name: null
-    type: REPOSITORY
-    url: 'https://bitbucket.org/magnetsinc/magnetize-load-balancers'
   - name: 'Contact us here'
     type: CHAT_CHANNEL
     url: 'https://magnetsinc.slack.com/archives/C049E2AUHRC'
